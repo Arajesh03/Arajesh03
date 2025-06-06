@@ -1,9 +1,5 @@
 # Hi 👋, I'm Ami Rajesh
 
-<p align="center">
-  <img src="ami_profile.png" alt="Ami Rajesh" width="170" />
-</p>
-
 I am a senior at the University of California, Irvine (B.S. Computer Science, Information Specialization, Dean’s Honor List 2024) and a Machine Learning Fellow at Break Through Tech AI (Cornell & UCLA).  
 My passion is applying Data Science, Machine Learning, and AI to real-world problems—especially in NLP, predictive analytics, and building end-to-end software solutions.  
 Currently, I'm focused on projects involving supervised/unsupervised ML, generative AI, and full-stack application development.  
