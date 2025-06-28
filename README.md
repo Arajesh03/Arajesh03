@@ -66,7 +66,6 @@ Graduating June 2025—actively seeking ML/AI, Data Science, and SWE opportuniti
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-16C60C?style=flat)
 
 ---
